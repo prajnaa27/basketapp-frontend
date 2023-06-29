@@ -1,0 +1,109 @@
+.container
+{
+    margin-top: 100px;
+}
+.promo
+{
+    display:inline-block;
+}
+
+.cont {
+    margin-left: -11px;
+    /* margin-top: 0px; */
+    margin-bottom: 10px;
+    width: 190px;
+}
+.am{
+    display: inline-block;
+  width: auto;
+  text-align: right;
+ }
+
+ .amounts {
+    display: inline-block;
+    width: 51%;
+    text-align: right;
+    /* align-items: center; */
+    border-width: thin;
+    border-radius: 10px;
+    border-style: solid;
+    /* border-block: inherit; */
+    /* margin-block: auto; */
+    padding: 15px;
+}
+ .promocode{
+    position: relative;
+    margin-bottom: 20px;
+ }
+
+ .cred{
+    position: relative;
+    margin-bottom: 20px;
+    top: 20px;
+ }
+
+ .am2{
+    margin-left: 20px;
+    display: inline-block;
+    width: auto;
+    
+    text-align: right;
+ }
+
+ .valid{
+    border-style: solid;
+    border-color: rgb(40, 167, 69);
+ }
+
+ .invalid{
+    border-style: solid;
+    border-color: rgb(220, 53, 69);
+ }
+
+ .basket {
+    position: relative;
+    left: 1150px;
+    width: 201px;
+}
+
+h2{
+    text-align: center;
+    position: relative;
+    top: 31px;
+}
+
+.empty{
+    display: inline-block;
+    width: 51%;
+    text-align: right;
+    /* align-items: center; */
+    border-width: thin;
+    border-radius: 10px;
+    border-style: solid;
+    /* border-block: inherit; */
+    /* margin-block: auto; */
+    height: 218px;
+    
+    padding: 15px;
+
+}
+.check{
+    position: relative;
+    right: 262px;
+    top: 32px;
+}
+
+.addproducts{
+    position: relative;
+    right: 451px;
+}
+
+
+.bb {
+    color:#28a745;
+    border-color: #28a745;
+    background-color: transparent;
+    position: relative;
+    top: 40px;
+    left: 370px;
+}
